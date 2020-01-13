@@ -1,0 +1,19 @@
+.idea/*
+.idea/
+target/
+checkpoint/
+src/test/
+project/target
+
+# Scala-IDE specific
+.scala_dependencies
+.config/
+.classpath
+.project
+.settings
+*.tmp
+*.bak
+*.swp
+.worksheet
+*.sc
+src/main/tmp/
